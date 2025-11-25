@@ -1,5 +1,0 @@
-flask
-pyautogui
-keyboard
-pywinauto
-psutil
